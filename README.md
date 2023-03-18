@@ -33,7 +33,7 @@ Week |Date |  Topic | Resources | Instructors
 13 |12-Aug | Hypothesis testing and experimental design | [Slide](http://www.datasciencecourse.org/slides/15388_S22_Lecture_19_hypothesis_testing.pdf) | -
 14 |19-Aug | Decision trees, interpretable models | [Slide](http://www.datasciencecourse.org/slides/15388_S22_Lecture_22_decision_trees.pdf) | -
 15 |26-Aug | Deep learning | [Slide](http://www.datasciencecourse.org/slides/15388_S22_Lecture_23_deep_learning_preview.pdf) | -
-16 |02-Sep | Deep learning  | [Slide](http://www.datasciencecourse.org/slides/15388_S22_Lecture_23_deep_learning_preview.pdf) | -
+16 |02-Sep | Conclusion of labs  |  | -
 
 
 
