@@ -54,4 +54,4 @@ S/N | Topic |
 
 
 ## Final project
-For the final project, each team would attempt to solve a problem by either emulating the steps used in the labs or using different approach. We would like to see what you come up with. 
+For the final project, each team would attempt to solve a problem by either emulating the steps used in the labs or using a different approach. We would like to see what you come up with. 
