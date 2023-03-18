@@ -4,7 +4,7 @@ In this cohort, we utilize learning resources from the [practical data science c
 
 The cohort would last 16 weeks with 15 weeks of lectures and lab work and a break on week 9. We would select relevant lectures from the [practical data science course](http://www.datasciencecourse.org/lectures/), study them carefully and use the learned concepts in the labs.
 
-There would be a series of labs, with each building up to a final solution to a chosen problem. For the labs, we have chosen to work on a fancy problem that involves reddit post; 
+There would be a series of labs, with each building up to a final solution to a chosen problem. For the labs, we have chosen to work on a fancy problem that involves reddit posts; 
 
  ```
  Given a reddit post, can you predict the subreddit to which it belongs? 
@@ -12,7 +12,7 @@ There would be a series of labs, with each building up to a final solution to a 
 
 Working on these labs would expose us to the art of building a data science project from the ground up, starting from data collection and completing the process with a model for inference.
 
-Additionally, participants are encouraged to work on a final project, exercising skills acquired from tinkering with labs.
+Additionally, participants are encouraged to work on a final project, exercising skills acquired from tinkering with the labs.
 
 
 ## Selected Lectures
@@ -54,4 +54,4 @@ S/N | Topic |
 
 
 ## Final project
-For the final project, each team would attempt to solve a problem either by emulating the steps used in the labs or by different approach. We would like to see what you come up with. 
+For the final project, each team would attempt to solve a problem by either emulating the steps used in the labs or using different approach. We would like to see what you come up with. 
