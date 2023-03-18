@@ -18,7 +18,7 @@ Additionally, participants are encouraged to work on a final project, exercising
 ## Selected Lectures
 Week |Date |  Topic | Resources | Instructors
 |---|---| ---| --- | --|
-1| 20-May |  Introduction to Data Science | [Slide](http://www.datasciencecourse.org/slides/intro.pdf), [Note](http://www.datasciencecourse.org/notes/intro/) | -
+1| 20-May |  Introduction to Data Science | [Slide](http://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf), [Note](http://www.datasciencecourse.org/notes/intro/) | -
 2 |27-May | Data Collection and Scraping | [Slide](http://www.datasciencecourse.org/slides/data_collection.pdf), [Note](http://www.datasciencecourse.org/notes/data_collection/) | -
 3 |03-Jun | Relational Data | [Slide](http://www.datasciencecourse.org/slides/relational_data.pdf), [Note](http://www.datasciencecourse.org/notes/relational_data/) | -
 4 |10-Jun | Visualization and Data Exploration | [Slide](http://www.datasciencecourse.org/slides/visualization.pdf), [Note](http://www.datasciencecourse.org/notes/visualization/) | -
